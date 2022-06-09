@@ -1,0 +1,5 @@
+rice
+fried_rice
+pizza
+hamburger
+sandwiches
